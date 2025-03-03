@@ -1,5 +1,3 @@
-# Linkr
-
 <div align="center">
   <img src="images/icon128.png" alt="Linkr Logo" width="80">
   <h1>Linkr URL Manager</h1>
