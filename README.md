@@ -4,6 +4,10 @@
   <img src="images/icon128.png" alt="Linkr Logo" width="80">
   <h1>Linkr</h1>
   <p><strong>A sleek, customizable URL manager for your browser</strong></p>
+  <div align="center">
+  <a href="https://github.com/Dan-Duran/linkr/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Dan-Duran/linkr"></a>
+  <a href="https://github.com/Dan-Duran/linkr/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</div>
   <p>
     <a href="#features">Features</a> •
     <a href="#installation">Installation</a> •
@@ -13,6 +17,31 @@
     <a href="#license">License</a>
   </p>
 </div>
+
+---
+## 💪 Join me! 
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
+---
+
+> 
+> ### 💝 Support My Work
+> 
+> [![Sponsor my work](https://img.shields.io/badge/Sponsor_my_work-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/Dan-Duran)
+>
+> Your sponsorship helps keep my open-source projects alive! From interactive learning tools to security guides, every contribution makes a difference in keeping these resources free and accessible to everyone.
+>
+> <details>
+> <summary>Why sponsor?</summary>
+>
+> - 🔨 Maintain and improve existing tools
+> - 📚 Create new educational content
+> - 🌐 Keep resources free and accessible
+> - 💡 Dedicate more time to community projects
+> </details>
+> 
 
 ## Overview
 
@@ -91,6 +120,7 @@ linkr/
 ├── popup.css           # Main UI styling
 ├── about.html          # Help and about page
 ├── about.css           # About page styling
+├── about.js            # About page js
 └── images/             # Extension icons
     ├── icon16.png
     ├── icon48.png
