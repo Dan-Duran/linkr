@@ -18,6 +18,11 @@
   </p>
 </div>
 
+## 💪 Join me! 
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
 > 
 > ### 💝 Support My Work
 > 
@@ -33,11 +38,6 @@
 > - 💡 Dedicate more time to community projects
 > </details>
 > 
-
-## 💪 Join me! 
-- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
-- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
-- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
 
 ## Overview
 
