@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Linkr</title>
+  <link rel="stylesheet" href="popup.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="title-section">
+        <h1>Linkr <span class="subtitle">URL Manager</span></h1>
+        <a href="about.html" class="about-link" title="Help & About"><i class="fas fa-info-circle"></i></a>
+      </div>
+      <div class="form-toggle">
+        <button id="toggle-form-button"><i class="fas fa-plus"></i></button>
+      </div>
+    </div>
+    
+    <div class="url-form" id="url-form">
+      <input type="text" id="name-input" placeholder="Enter name">
+      <input type="url" id="url-input" placeholder="Enter URL">
+      <button id="add-button">Add URL</button>
+    </div>
+    
+    <div class="url-list" id="url-list">
+      <!-- URL buttons will be added here dynamically -->
+    </div>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html>

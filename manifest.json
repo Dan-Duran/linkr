@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Linkr URL Manager",
+  "version": "1.0",
+  "description": "Manage your favorite URLs with custom buttons",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "images/icon2.png",
+      "128": "images/icon1.png"
+    }
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "48": "images/icon2.png",
+    "128": "images/icon1.png"
+  }
+}
