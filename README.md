@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="images/icon128.png" alt="Linkr Logo" width="80">
-  <h1>Linkr</h1>
+  <h1>Linkr URL Manager</h1>
   <p><strong>A sleek, customizable URL manager for your browser</strong></p>
   <div align="center">
   <a href="https://github.com/Dan-Duran/linkr/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Dan-Duran/linkr"></a>
